@@ -16,14 +16,14 @@ Available variables are listed below, along with default values (see `defaults/m
 
 ## Dependencies
 
-  - geerlingguy.php
-  - geerlingguy.php-pecl
+  - paulthed.php
+  - paulthed.php-pecl
 
 ## Example Playbook
 
     - hosts: webservers
       roles:
-        - { role: geerlingguy.php-xdebug }
+        - { role: paulthed.php-xdebug }
 
 ## License
 

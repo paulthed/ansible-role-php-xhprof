@@ -3,6 +3,6 @@
   remote_user: root
 
   roles:
-    - geerlingguy.php
-    - geerlingguy.php-pecl
+    - paulthed.php
+    - paulthed.php-pecl
     - ansible-role-php-xhprof
